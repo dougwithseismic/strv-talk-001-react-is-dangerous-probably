@@ -133,14 +133,6 @@ x
 2. **Secure transfer of ownership**: If selling or transferring a project, ensure it's to a reputable party. Implement a thorough vetting process and consider gradual transfers of control.
 3. **Fail-safes and kill switches**: Consider implementing mechanisms to disable functionality if suspicious activity is detected. This could include server-side checks or built-in expiration dates that require manual renewal.
 
-## The Future of Web Security
-
-As we move forward, several trends and technologies may shape the future of web security:
-
-1. **Zero-trust architectures**: Assuming no actor, system or service operating from within or outside the network boundary is automatically trustworthy. This approach requires continuous verification and least-privilege access.
-2. **Edge computing and security**: As computation moves closer to the data source, new security paradigms will emerge. This includes securing edge nodes and implementing robust data protection at the point of collection.
-3. **AI in cybersecurity**: Both as a tool for defense and as a potential threat vector. AI can help detect anomalies and predict attacks, but it can also be used to create more sophisticated phishing attempts and social engineering tactics.
-
 ## Call to Action
 
 1. **Educate**: Share this story and its lessons with your team and the broader dev community. Organize workshops, write blog posts, and contribute to open discussions on web security.
