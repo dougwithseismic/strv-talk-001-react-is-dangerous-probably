@@ -1,6 +1,6 @@
 # STRV Frontend Talk: React is Dangerous, Probably (or why are you hacking yourself.)
 
-![STRV Talk](https://img.shields.io/badge/STRV%20Talk-001-blue)
+![Doug x STRV FE Talk](https://img.shields.io/badge/STRV%20Talk-001-blue)
 
 By Doug Silkstone <Doug@withseismic.com>
 
