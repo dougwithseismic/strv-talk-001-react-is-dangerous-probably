@@ -1,15 +1,15 @@
 import type { PlasmoCSConfig } from "plasmo"
 
-import { useInspectorMode } from "~features/common/hooks/use-inspection-mode"
+import { useReactQuerySnifferSearch } from "~features/react-query-sniffer/hooks/use-react-query-sniffer-search"
 
+// I'll leave this feature out for today, but check out the hook and SEARCH_CONFIG in the search-config.ts file for more details.
 export const config: PlasmoCSConfig = {
-  //   matches: ["https://**/*"],
+  matches: ["https://DONOTUSE.com/*"],
   world: "MAIN"
 }
 
 const InspectorMode = () => {
-  useInspectorMode()
-
+  useReactQuerySnifferSearch()
   return null
 }
 

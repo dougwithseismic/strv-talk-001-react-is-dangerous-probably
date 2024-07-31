@@ -84,7 +84,7 @@ A demonstration of how third parties might interact with your code:
 
 - Rohlik Parents Club Client Side Workaround
 - Rohlik Admin Product Discount
-- ~Showcase how malicious actors could exploit this vulnerability to manipulate inventory, pricing, or user accounts, emphasizing the need for robust server-side validation~
+- ~Showcase how malicious actors could exploit this vulnerability to manipulate inventory, pricing, or user accounts, emphasizing the need for robust server-side validation~ Let's not do this.
 - Illustrate how an extension could silently collect and exfiltrate private conversations, compromising user privacy on a massive scale
 
 ## What should you do when you discover this?

@@ -67,5 +67,5 @@ export const SEARCH_CONFIG = {
   maxDepth: 50,
   stopAfterFirst: true,
   searchPaths: ["memoizedProps", "memoizedState"],
-  mainSelector: "#__next"
+  mainSelector: "#react-root"
 }
